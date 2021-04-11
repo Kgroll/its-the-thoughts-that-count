@@ -8,8 +8,8 @@ const userController = {
         path: 'thoughts',
         select: '-__v'
       })
-      .select('-__v')
-      .sort({ _id: -1 })
+      // .select('-__v')
+      // .sort({ _id: -1 })
       .then(dbUserData => res.json(dbUserData))
       .catch(err => {
         console.log(err);
@@ -20,10 +20,15 @@ const userController = {
   // get one User by id
   getUserById({ params }, res) {
     User.findOne({ _id: params.id })
-      .populate({
+      .populate([
+        {
         path: 'thoughts',
         select: '-__v'
-      })
+        },
+      {  path: 'friends',
+        select: '-__v'
+      }
+    ])
       .select('-__v')
       .then(dbUserData => res.json(dbUserData))
       .catch(err => {
@@ -57,6 +62,18 @@ const userController = {
     User.findOneAndDelete({ _id: params.id })
       .then(dbUserData => res.json(dbUserData))
       .catch(err => res.json(err));
+  },
+
+  addFriend({ params}, res) {
+    Friend.create(params)
+    .then(dbUserData => res.json(dbUserData))
+    .catch(err => res.json(err));
+  },
+
+  deleteFriend({ params }, res){
+    Friend.findOneAndDelete({ _id: params.userId})
+    .then(dbUserData => res.json(dbUserData))
+    .catch(err => res.json(err));
   }
 };
 
