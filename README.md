@@ -12,9 +12,9 @@
 
   * [Contributing](#contributing)
 
-  * [Tests](#tests)
+  * [Video ](#tests)
 
-  * [Credits](#credits)
+  * [Screen-shots](#Screen Shots)
 
   * [Questions](#questions)
 
@@ -51,9 +51,17 @@
   REACTIONS AND FRIENDS:
   https://drive.google.com/file/d/1d4yvCzyKKvAVqF4l7JdlY4xIUOq04qRV/view
 
-  ## Credits
+  ## Screen Shots
+  
+   Mongoose running in Visual Studio Code
+   ![Screenshot mongoose 2021-04-13 124118](https://user-images.githubusercontent.com/75186217/114589742-f1ee1f80-9c55-11eb-8605-eae914167732.jpg)
+ 
+  Users in Insomnia Core
+  ![Screenshot users2021-04-13 124229](https://user-images.githubusercontent.com/75186217/114589744-f4507980-9c55-11eb-9c28-9c46646c78f4.jpg)
 
-  None
+  Thoughts in Insomnia Core
+  ![Screenshot thoughts 2021-04-13 124301](https://user-images.githubusercontent.com/75186217/114589752-f61a3d00-9c55-11eb-9ae6-270ae5ba2667.jpg)
+
 
   ## Questions
 
