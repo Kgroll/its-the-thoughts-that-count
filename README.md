@@ -1,4 +1,4 @@
-# its-the-thoughts-that-count
+# (It's the Thoughts) That Count
 
   ## Table of Contents
 
@@ -6,35 +6,21 @@
 
   * [Installation](#installation)
 
-  * [Features](#features)
-
-  * [License](#license)
-
   * [Contributing](#contributing)
 
-  * [Video ](#tests)
+  * [Video Walkthroughs](#video-walkthroughs)
 
-  * [Screen-shots](#Screen Shots)
+  * [Screen Shots](#Screen-Shots)
 
   * [Questions](#questions)
 
   ## Descripition
 
-  The project is an API for a social network that uses a NoSQL database, MongoDB and Mongoose. It allows users to add, update and delete users and thoughts and to keep track and edit friends a reaction comments.
+  The project is an API for a social network that uses a NoSQL database, MongoDB and Mongoose. It allows users to add, update and delete users and thoughts and to keep track of and edit both reaction comments and friend lists.
 
   ## Installation
 
   Installation process: ensure that Mongod and Mongo are installed on your computer. In Visual Studio Code run npm install in order to install node.js, mongoose, mongoDB and express. Once installed enter npm start to connect to the server. Once connected open Insomnia Core and using GET, POST, PUT and DELETE commands edit the information as needed.
-
-  ## Features
-
-  
-
-  ## License
-
-  Licensed by:  
-  
-  For more information go to:  
 
   ## Contributing
 
