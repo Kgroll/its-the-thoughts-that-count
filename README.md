@@ -10,7 +10,7 @@
 
   * [Contributing](#contributing)
 
-  * [Video Walkthroughs](#video-walkthroughs)
+  * [Video Walkthrough of Tests in Insomnia Core](#video-walkthrough-of-tests-in-insomnia-cores)
 
   * [Screen Shots](#screen-shots)
 
