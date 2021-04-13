@@ -6,13 +6,13 @@
 
   * [Installation](#installation)
 
-  * [Contents of package.json](#Contents-of-package.json)
+  * [Contents of package.json](#contents-of-package.json)
 
   * [Contributing](#contributing)
 
   * [Video Walkthroughs](#video-walkthroughs)
 
-  * [Screen Shots](#Screen-Shots)
+  * [Screen Shots](#screen-shots)
 
   * [Questions](#questions)
 
