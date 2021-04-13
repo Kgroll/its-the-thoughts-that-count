@@ -6,6 +6,8 @@
 
   * [Installation](#installation)
 
+  * [Contents of package.json](#Contents-of-package.json)
+
   * [Contributing](#contributing)
 
   * [Video Walkthroughs](#video-walkthroughs)
@@ -21,6 +23,10 @@
   ## Installation
 
   Installation process: ensure that Mongod and Mongo are installed on your computer. In Visual Studio Code run npm install in order to install node.js, mongoose, mongoDB and express. Once installed enter npm start to connect to the server. Once connected open Insomnia Core and using GET, POST, PUT and DELETE commands edit the information as needed.
+
+  ## Contents of package.json
+  
+  ![Screenshot json 2021-04-13 125329](https://user-images.githubusercontent.com/75186217/114590920-52319100-9c57-11eb-849c-5c9e3cc90890.jpg)
 
   ## Contributing
 
