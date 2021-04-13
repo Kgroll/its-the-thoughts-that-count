@@ -40,7 +40,8 @@
 
   Please inform me of any contributions you wish to make
 
-  ## Tests
+  ## Video Walkthrough of Tests in Insomnia Core
+  
 
   
 
